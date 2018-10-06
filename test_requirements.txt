@@ -2,4 +2,4 @@ pytest==3.8.2
 pytest-cov==2.6.0
 pytest-mock==1.10.0
 pytest-catchlog==1.2.2
-freezegun
+freezegun==0.3.10
